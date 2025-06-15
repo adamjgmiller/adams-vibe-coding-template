@@ -115,6 +115,22 @@ This template establishes consistent patterns for AI-assisted development, ensur
 
 **Last Updated:** June 15, 2025
 
-## License
+## License & Compliance
 
-This template is provided as-is for educational and development purposes. Adapt and modify as needed for your specific use case. 
+This project contains components under different licenses:
+
+**Main Project:** Available under a permissive open-source license for educational and development purposes.
+
+**⚠️ Apache Licensed Components:** The `ai-dev-tasks/` directory contains modified files originally licensed under Apache License 2.0.
+
+**IMPORTANT COMPLIANCE NOTICE:** This project includes modified Apache 2.0 licensed content. When redistributing this project, you must:
+- Retain the `NOTICE` file with full attribution
+- Include both license files (`LICENSE` and `ai-dev-tasks/LICENSE`)
+- Maintain modification notices as required by Apache License 2.0
+
+**License Files:**
+- `LICENSE` - Main project license  
+- `ai-dev-tasks/LICENSE` - Apache License 2.0 for components
+- `NOTICE` - Required attribution and modification notices
+
+Adapt and modify as needed for your specific use case, while maintaining proper attribution.

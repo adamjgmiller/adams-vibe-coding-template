@@ -1,0 +1,30 @@
+Adams Vibe Coding Template
+Copyright 2025 Adam Miller
+
+This product includes software developed as part of the AI Dev Tasks project.
+
+================================================================================
+
+APACHE LICENSED COMPONENTS:
+
+ai-dev-tasks/ directory contains modified files originally licensed under 
+Apache License 2.0. Original files appear to be from an AI development 
+tasks project. Modifications have been made by Adam Miller in 2025.
+
+Original Apache License 2.0 text is available in ai-dev-tasks/LICENSE
+
+================================================================================
+
+MODIFICATIONS NOTICE:
+
+The following files in ai-dev-tasks/ have been modified from their original form:
+- README.md (modified 2025)
+- Various task files and configurations (modified 2025)
+
+All modifications are clearly marked and documented.
+
+================================================================================
+
+For complete license information, see:
+- LICENSE (main project)
+- ai-dev-tasks/LICENSE (Apache 2.0 components) 
